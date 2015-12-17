@@ -18,7 +18,7 @@
     "hubot-scripts": "^2.16.2",
     "hubot-shipit": "^0.2.0",
     "hubot-slack": "^3.4.2",
-    "hubot-standup-alarm": "git://github.com/db42/hubot-standup-alarm"
+    "hubot-standup-alarm": "git://github.com/db42/hubot-standup-alarm.git#c7ea4c2"
   },
   "engines": {
     "node": "0.10.x"
